@@ -46,14 +46,4 @@ CREATE TABLE Reservations (
 );
 ```
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Feel free to customize the content as needed to fit your project and add any additional sections or information.
